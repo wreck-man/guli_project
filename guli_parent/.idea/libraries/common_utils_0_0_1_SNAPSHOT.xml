@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="common_utils-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/common/service_base/src/main/java/com/youxin/servicebase/common_utils-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

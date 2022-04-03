@@ -1,0 +1,12 @@
+
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: king
+    password: king
+    url: jdbc:mysql://192.168.164.1:3307/gu_li?serverTimezone=GMT%2B8
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848

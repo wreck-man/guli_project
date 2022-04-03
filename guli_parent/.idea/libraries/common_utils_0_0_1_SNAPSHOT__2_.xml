@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="common_utils-0.0.1-SNAPSHOT (2)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/common/spring-security/src/main/java/com/atguigu/serurity/common_utils-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

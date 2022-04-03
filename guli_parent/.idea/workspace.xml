@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c67af6ca-6a7c-4827-a1b8-206cbb93c99b" name="Default Changelist" comment="asds">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="25eDFv9hcLZsuLcgPbiSMvc5Kaf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service/service_vods/src/main/java/com/youxin/vods" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.16777778" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.youxin.eduoss.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\ideaproject\guli_parent\service\service_vods\src\main\java\com\youxin\vods" />
+      <recent name="H:\ideaproject\guli_parent\common\spring-security\src\main\java\com\atguigu\serurity" />
+      <recent name="H:\ideaproject\guli_parent\common\service_base\src\main\java\com\youxin\servicebase" />
+      <recent name="H:\ideaproject\guli_parent\common\spring-security\src\main\java" />
+      <recent name="H:\ideaproject\guli_parent\common\spring_security" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\ideaproject\guli_parent\service" />
+      <recent name="H:\ideaproject\guli_parent\service\service_vod\src\main\java\com\youxin\eduvod" />
+      <recent name="H:\ideaproject\guli_parent\service\service_vod" />
+      <recent name="H:\ideaproject\guli_parent\service\service_edu\src\main\resources" />
+      <recent name="H:\ideaproject\guli_parent\common\service_base\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.youxin.vods.utils" />
+      <recent name="com.youxin.serviceorder.config" />
+      <recent name="com.youxin.servicestatistics" />
+      <recent name="com.youxin.serviceorder.client" />
+      <recent name="com.youxin.commonutils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EduServiceCmsApplication">
+    <configuration name="MD5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.youxin.commonutils.MD5" />
+      <module name="common_utils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youxin.commonutils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api_gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youxin.geteway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youxin.geteway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CanalApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="canal_client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youxin.canalclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youxin.canalclient.CanalApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo6Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo6" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.Demo6Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EasyExcelApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_excel" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youxin.excel.EasyExcelApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduOssApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_oss" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youxin.eduoss.EduOssApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_edus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youxin.eduservice.EduServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduServiceCmsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_cms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youxin.eduservicecms.EduServiceCmsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduVodApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_vods" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youxin.vods.EduVodApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EduVodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_vod" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youxin.eduvod.EduVodApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuliParentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="guli_parent" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.guli_parent.GuliParentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InfrastructureApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="infrastructure" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.infrastructure.InfrastructureApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youxin.serviceorder.OrderServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAclApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_acl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.aclservice.ServiceAclApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceAclApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_acl" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youxin.serviceacl.ServiceAclApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceMsmApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service_msm" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youxin.servicemsm.ServiceMsmApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StatisticsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_statistics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youxin.servicestatistics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youxin.servicestatistics.StatisticsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UcenterServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service_ucenter" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.youxin.serviceucenter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.youxin.serviceucenter.UcenterServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.UcenterServiceApplication" />
+        <item itemvalue="Spring Boot.StatisticsApplication" />
+        <item itemvalue="Spring Boot.ApiGatewayApplication" />
+        <item itemvalue="Application.MD5" />
+        <item itemvalue="Spring Boot.CanalApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringGeneralSettings">
+    <option name="allowAutoConfigurationMode" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c67af6ca-6a7c-4827-a1b8-206cbb93c99b" name="Default Changelist" comment="" />
+      <created>1645878559379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645878559379</updated>
+      <workItem from="1645878561404" duration="2457000" />
+      <workItem from="1645887167980" duration="1602000" />
+      <workItem from="1645888993295" duration="1839000" />
+      <workItem from="1645943621817" duration="15236000" />
+      <workItem from="1645964556884" duration="6434000" />
+      <workItem from="1646048378926" duration="6154000" />
+      <workItem from="1646109308023" duration="7218000" />
+      <workItem from="1646221587375" duration="5445000" />
+      <workItem from="1646390736237" duration="5833000" />
+      <workItem from="1646456853096" duration="8749000" />
+      <workItem from="1646566465686" duration="9110000" />
+      <workItem from="1646646132217" duration="12707000" />
+      <workItem from="1646661264662" duration="1251000" />
+      <workItem from="1646714463957" duration="11246000" />
+      <workItem from="1646801234682" duration="9831000" />
+      <workItem from="1646890191359" duration="9169000" />
+      <workItem from="1647076854664" duration="16269000" />
+      <workItem from="1647151114344" duration="14982000" />
+      <workItem from="1647347714943" duration="6149000" />
+      <workItem from="1647405913761" duration="6096000" />
+      <workItem from="1647431310613" duration="2628000" />
+      <workItem from="1647434015927" duration="1881000" />
+      <workItem from="1647435920805" duration="4236000" />
+      <workItem from="1647483264943" duration="25091000" />
+      <workItem from="1647571980192" duration="2412000" />
+      <workItem from="1647574447504" duration="14831000" />
+      <workItem from="1647661025276" duration="22883000" />
+      <workItem from="1647696186707" duration="1918000" />
+      <workItem from="1647839041477" duration="642000" />
+      <workItem from="1647844157978" duration="18806000" />
+      <workItem from="1647953322610" duration="1810000" />
+      <workItem from="1647960348995" duration="2642000" />
+      <workItem from="1648037062023" duration="8969000" />
+      <workItem from="1648101163667" duration="25035000" />
+      <workItem from="1648215518327" duration="5348000" />
+      <workItem from="1648272946146" duration="18138000" />
+      <workItem from="1648353902379" duration="4447000" />
+      <workItem from="1648383070933" duration="7401000" />
+      <workItem from="1648459147726" duration="6895000" />
+      <workItem from="1648468946903" duration="5692000" />
+      <workItem from="1648526677014" duration="2522000" />
+      <workItem from="1648547364913" duration="14704000" />
+      <workItem from="1648566816907" duration="1925000" />
+      <workItem from="1648615401098" duration="11970000" />
+      <workItem from="1648724924537" duration="11858000" />
+      <workItem from="1648788631199" duration="21089000" />
+      <workItem from="1648876053943" duration="18029000" />
+      <workItem from="1648909472823" duration="1096000" />
+      <workItem from="1648966950313" duration="4430000" />
+      <workItem from="1648971437039" duration="6806000" />
+    </task>
+    <task id="LOCAL-00001" summary="asd">
+      <created>1648970730742</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648970730742</updated>
+    </task>
+    <task id="LOCAL-00002" summary="asd">
+      <created>1648971664722</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648971664722</updated>
+    </task>
+    <task id="LOCAL-00003" summary="asd">
+      <created>1648972204604</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648972204604</updated>
+    </task>
+    <task id="LOCAL-00004" summary="asds">
+      <created>1648975506388</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648975506388</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="asd" />
+    <MESSAGE value="asds" />
+    <option name="LAST_COMMIT_MESSAGE" value="asds" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../demo6/src/main/java/com/example/demo/code/day1.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../demo6/src/main/java/com/example/demo/code/day2.java</url>
+          <line>73</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../demo6/src/main/java/com/example/demo/code/day3.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service_edu/src/main/java/com/youxin/eduservice/controller/EduChapterController.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service_edu/src/main/java/com/youxin/eduservice/service/impl/EduTeacherServiceImpl.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service_edus/src/main/java/com/youxin/eduservice/service/impl/EduChapterServiceImpl.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.1.RELEASE/spring-security-web-5.2.1.RELEASE.jar!/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.class</url>
+          <line>45</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-web/5.2.1.RELEASE/spring-security-web-5.2.1.RELEASE.jar!/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.class</url>
+          <line>72</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/spring-security/src/main/java/com/atguigu/serurity/filter/TokenLoginFilter.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/common/spring-security/src/main/java/com/atguigu/serurity/filter/TokenLoginFilter.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

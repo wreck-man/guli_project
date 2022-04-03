@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.youxin.eduservice.mapper.EduCourseMapper">
+    <select id="publish" resultType="com.youxin.eduservice.entity.vo.CoursePublishVo">
+        select  c.title,
+                c.cover,
+                c.lesson_num as lessonNum,
+                s1.title as subjectLevelOne,
+                s2.title as subjectLevelTwo,
+                t.name as teacherName,
+                c.price from edu_course c
+                                 left join edu_subject s1
+                                           on s1.id=c.subject_parent_id
+                                 left join  edu_subject s2
+                                            on s2.id=c.subject_id
+                                 left join edu_teacher t
+                                           on c.teacher_id=t.id
+                                where c.id=#{id}
+
+
+    </select>
+    <select id="selectCourseById" resultType="com.youxin.eduservice.entity.vo.CourseWebVo">
+        select  c.title,
+                c.cover,
+               c.buy_count as buyCount ,
+               c.view_count as viewCount,
+                c.lesson_num as lessonNum,
+               d.description,
+                s1.title as subjectLevelOne,
+               s1.id as subjectLevelOneId,
+                s2.title as subjectLevelTwo,
+               s2.id as subjectLevelTwoId,
+               t.id as teacherId,
+               t.intro,
+                t.name as teacherName,
+               t.avatar,
+                c.price from edu_course c
+                                left join edu_course_description d
+                                on d.id=c.id
+                                 left join edu_subject s1
+                                           on s1.id=c.subject_parent_id
+                                 left join  edu_subject s2
+                                            on s2.id=c.subject_id
+                                 left join edu_teacher t
+                                           on c.teacher_id=t.id
+        where c.id=#{courseId}
+
+
+    </select>
+</mapper>
